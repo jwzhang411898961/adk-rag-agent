@@ -125,15 +125,23 @@ If you encounter issues:
 - [Google Cloud Authentication Guide](https://cloud.google.com/docs/authentication)
 
 Questions in the test:
-I would like to create a knowledge store called "autism support"
+Hi, who are you?
 what corpora do I have now?
+I would like to create a knowledge store called "autism support"
+
 what documents does it include in autism support corpora at the moment?
+
 I would like to add the following document to autism support corpora:
-https://docs.google.com/presentation/d/1StyFkBapNaiGk-_vXlo8qSkw40ew04NVlatePkn_bl0/edit?usp=sharing
+https://storage.cloud.google.com/rag-hackathon-att-2025/Presentation%202%20(Strategies%20for%20Classroom%20Success%20and%20Effective%20Use%20of%20Teacher%20Supports).pdf
+
 I would like to add another document to autism support corpora:
 https://drive.google.com/file/d/13wRVkxGeRI94dygWaGvARfaMh9a6t4Fx/view?usp=sharing
+
 what documents does it include in autism support corpora at the moment?
+
 What are the primary components of structured teaching for child with autism?
+What are the key support strategies for child with autism?
+
 Delete "Autism Awareness by Slidesgo" document
 Delete the corpora
 what corpora do I have now?
