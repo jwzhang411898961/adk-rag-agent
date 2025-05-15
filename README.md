@@ -123,3 +123,17 @@ If you encounter issues:
 - [Vertex AI RAG Documentation](https://cloud.google.com/vertex-ai/generative-ai/docs/rag-overview)
 - [Google Agent Development Kit (ADK) Documentation](https://github.com/google/agents-framework)
 - [Google Cloud Authentication Guide](https://cloud.google.com/docs/authentication)
+
+Questions in the test:
+I would like to create a knowledge store called "autism support"
+what corpora do I have now?
+what documents does it include in autism support corpora at the moment?
+I would like to add the following document to autism support corpora:
+https://docs.google.com/presentation/d/1StyFkBapNaiGk-_vXlo8qSkw40ew04NVlatePkn_bl0/edit?usp=sharing
+I would like to add another document to autism support corpora:
+https://drive.google.com/file/d/13wRVkxGeRI94dygWaGvARfaMh9a6t4Fx/view?usp=sharing
+what documents does it include in autism support corpora at the moment?
+What are the primary components of structured teaching for child with autism?
+Delete "Autism Awareness by Slidesgo" document
+Delete the corpora
+what corpora do I have now?
